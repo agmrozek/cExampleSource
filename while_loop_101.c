@@ -1,5 +1,13 @@
 /*
 While looping examples
+Looping Logic:
+
+init_expression;
+while( loop_condition ) { // if loop condition resolves to true loop block executes until condition is false
+  codeblock statements;
+  loop_incrementer 
+}
+
 */
 
 #include <stdio.h>
